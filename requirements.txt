@@ -1,0 +1,13 @@
+numpy==1.19.3
+opencv_python==4.2.0.32
+scipy==1.5.4
+torch==1.7.0+cpu
+matplotlib==3.3.2
+tqdm==4.51.0
+torchvision==0.8.1+cpu
+Pillow==8.0.1
+pretrainedmodels==0.7.4
+PyQt5==5.15.2
+skimage==0.0
+thop==0.0.31-2005241907
+
